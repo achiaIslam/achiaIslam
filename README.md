@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Achia Islam
 
-<!--
-**achiaIslam/achiaIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+* 🌱 I’m currently learning programming
+* 💻 Interested in Web Development
+* 🎯 Goal: Become a skilled developer
+* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript (Learning)
+
+---
+
+## 📊 GitHub Stats
+
+![Achia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+
+* Facebook: your-link
+* Instagram: your-link
+
+---
+
+⭐️ From Achia Islam
