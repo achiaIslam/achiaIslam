@@ -69,9 +69,5 @@
 
 ---
 
-### ⚙ Visitors Count:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=achia-islam&label=Profile+Views&color=brightgreen" alt="visitor counter"/>
-</p>
 
