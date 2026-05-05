@@ -46,13 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achia-islam&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achia-islam&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achia-islam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
