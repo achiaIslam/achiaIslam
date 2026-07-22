@@ -40,7 +40,6 @@
 
 ### 📂 Featured Projects:
 
-* 🔗 [FulStop E-commerce Website](https://dipto-kanto-das.github.io/fulStop)
 * 🔗 Project Megha Winner Bot *(Coming Soon)*
 * 🔗 Animated Birthday Wish Project *(Coming Soon)*
 
